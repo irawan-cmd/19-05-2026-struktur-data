@@ -128,11 +128,3 @@ python knapsack.py
 - Lisensi: MIT
 
 ---
-
-## 📄 Lisensi
-
-Proyek ini dilisensikan di bawah MIT License.
-
----
-
-> Dibuat sebagai bagian dari tugas mata kuliah Algoritma & Pemrograman.
